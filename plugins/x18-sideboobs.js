@@ -1,3 +1,4 @@
+/*
 let axios = require('axios');
 let fetch = require('node-fetch')
 let neko = require('nekos.life')
@@ -23,3 +24,4 @@ handler.botAdmin = false
 handler.fail = null
 
 module.exports = handler
+*/
