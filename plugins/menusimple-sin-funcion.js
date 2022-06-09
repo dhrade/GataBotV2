@@ -1,3 +1,4 @@
+/*
 let PhoneNumber = require('awesome-phonenumber')
 let levelling = require('../lib/levelling')
 
@@ -288,3 +289,4 @@ handler.botAdmin = false
 handler.fail = null
 
 module.exports = handler
+*/
