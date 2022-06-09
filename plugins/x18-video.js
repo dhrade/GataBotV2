@@ -1,3 +1,4 @@
+/*
 let util = require('util')
 let path = require('path')
 let fs = require('fs')
@@ -34,3 +35,4 @@ module.exports = handler
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
+*/
