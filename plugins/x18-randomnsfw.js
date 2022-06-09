@@ -1,3 +1,4 @@
+/*
 const axios = require('axios')
 //if (isBanned) return  reply(mess.banned)
 //if (!isGroup) return reply('esta función es solo para grupos')
@@ -24,3 +25,4 @@ handler.exp = 0
 handler.limit = false
 
 module.exports = handler
+*/
