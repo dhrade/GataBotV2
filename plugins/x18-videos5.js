@@ -1,3 +1,4 @@
+/*
 let handler = async(m, { conn, usedPrefix, command }) => {
 if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ *Función Nsfw Desactivada*\n*Escriba #on nsfw para activar esta Función.*'
   
@@ -28,3 +29,4 @@ const asupan = [
 "https://h.top4top.io/m_2263q60k60.mp4",
 "https://a.top4top.io/m_2263xdx270.mp4",
 ]
+*/
