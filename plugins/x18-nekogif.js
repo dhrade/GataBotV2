@@ -1,4 +1,4 @@
-//
+/*
 const fetch = require('node-fetch')
 const FormData = require('form-data')
 const { MessageType } = require('@adiwajshing/baileys')
@@ -29,3 +29,4 @@ handler.botAdmin = false
 handler.fail = null
 
 module.exports = handler
+*/
