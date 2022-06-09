@@ -1,3 +1,4 @@
+/*
 let fetch = require('node-fetch')
      let handler  = async (m, { conn, usedPrefix, command }) => {
      if (!DATABASE._data.chats[m.chat].nsfw && m.isGroup) throw '❰ ⚠️ ❱ *Función Nsfw Desactivada*\n*Escriba #on nsfw para activar esta Función.*'     
@@ -8,3 +9,4 @@ let fetch = require('node-fetch')
 handler.command = /^(hentai|hentay)$/i
 
 module.exports = handler
+*/
