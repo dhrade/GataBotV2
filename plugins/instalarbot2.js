@@ -1,3 +1,4 @@
+/*
 let handler = async m => m.reply(`
 ⚡▁ ▂ ▄ ▅ ▆ ▇ █ 🚆 █ ▇ ▆ ▅ ▄ ▂ ▁⚡
 
@@ -131,3 +132,4 @@ handler.tags = ['info']
 handler.command = /^Procesobot|procesobot|PROCESOBOT|Botproceso|botproceso|BOTPROCESO|procesodelbot$/i
 
 module.exports = handler
+*/
