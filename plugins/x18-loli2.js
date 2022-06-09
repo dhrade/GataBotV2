@@ -1,3 +1,4 @@
+/*
 let fetch = require('node-fetch')
 
 let handler = async (m, { conn }) => {
@@ -372,3 +373,4 @@ global.anime = [
   "https://i.imgur.com/cIbfUOw.jpg",
   "https://i.imgur.com/jUH2dFn.jpg"
 ]
+*/
