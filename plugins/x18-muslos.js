@@ -1,3 +1,4 @@
+/*
 let fetch = require('node-fetch')
 
 let handler = async (m, { conn }) => {
@@ -63,3 +64,4 @@ global.muslos = [
 "https://i.imgur.com/RJFX4Md.jpg",
 "https://i.imgur.com/eDZ1qIC.jpg"	
 ]
+*/
