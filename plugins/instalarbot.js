@@ -1,3 +1,4 @@
+/*
 let handler = async m => m.reply(`
 ⚡▁ ▂ ▄ ▅ ▆ ▇ █ 🚆 █ ▇ ▆ ▅ ▄ ▂ ▁⚡
 
@@ -47,6 +48,7 @@ let handler = async m => m.reply(`
 
 *_https://github.com/GataNina-Li/GataBotV2/blob/master/README.md_*
 
+
 ⚠️ *_Si usas un número importante para que sea Bot, o un WhatsApp normal es posible que el número pueda irse al soporte_*
 
 💛 *_Si tienes dudas o necesitas ayuda en el proceso de la instalación puede escribir me a este número (No es Bot el número)_*
@@ -63,3 +65,4 @@ handler.tags = ['info']
 handler.command = /^instalarbot$/i
 
 module.exports = handler
+*/
