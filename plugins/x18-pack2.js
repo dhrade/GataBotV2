@@ -1,3 +1,4 @@
+/*
 let fetch = require('node-fetch')
 
 let handler = async (m, { conn }) => {
@@ -56,3 +57,4 @@ global.packgirl = [
   "https://i.imgur.com/6dXFsBW.jpg",
   "https://i.imgur.com/6CeG9ZX.jpg"
 ]
+*/
